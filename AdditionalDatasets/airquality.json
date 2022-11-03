@@ -1,0 +1,482 @@
+[
+  {
+    "country": "Bangladesh",
+    "particlePollution": "83.3000",
+    "pop2022": "167885.6890"
+  },
+  {
+    "country": "Pakistan",
+    "particlePollution": "65.8100",
+    "pop2022": "229488.9940"
+  },
+  {
+    "country": "Mongolia",
+    "particlePollution": 62,
+    "pop2022": "3378.0780"
+  },
+  {
+    "country": "Afghanistan",
+    "particlePollution": "58.8000",
+    "pop2022": "40754.3880"
+  },
+  {
+    "country": "India",
+    "particlePollution": "58.0800",
+    "pop2022": "1406631.7760"
+  },
+  {
+    "country": "Indonesia",
+    "particlePollution": "51.7100",
+    "pop2022": "279134.5050"
+  },
+  {
+    "country": "Bahrain",
+    "particlePollution": "46.8000",
+    "pop2022": "1783.9830"
+  },
+  {
+    "country": "Nepal",
+    "particlePollution": "44.4600",
+    "pop2022": "30225.5820"
+  },
+  {
+    "country": "Uzbekistan",
+    "particlePollution": "41.2000",
+    "pop2022": "34382.0840"
+  },
+  {
+    "country": "Iraq",
+    "particlePollution": "39.6000",
+    "pop2022": "42164.9650"
+  },
+  {
+    "country": "China",
+    "particlePollution": "39.1200",
+    "pop2022": "1448471.4000"
+  },
+  {
+    "country": "United Arab Emirates",
+    "particlePollution": "38.9400",
+    "pop2022": "10081.7850"
+  },
+  {
+    "country": "Kuwait",
+    "particlePollution": "38.3000",
+    "pop2022": "4380.3260"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "particlePollution": "34.5800",
+    "pop2022": "3249.3170"
+  },
+  {
+    "country": "Vietnam",
+    "particlePollution": "34.0600",
+    "pop2022": "98953.5410"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "particlePollution": "33.2000",
+    "pop2022": "6728.2710"
+  },
+  {
+    "country": "North Macedonia",
+    "particlePollution": "32.4000",
+    "pop2022": "2081.3040"
+  },
+  {
+    "country": "Syria",
+    "particlePollution": "32.2000",
+    "pop2022": "19364.8090"
+  },
+  {
+    "country": "DR Congo",
+    "particlePollution": "32.1000",
+    "pop2022": "95240.7920"
+  },
+  {
+    "country": "Myanmar",
+    "particlePollution": 31,
+    "pop2022": "55227.1430"
+  },
+  {
+    "country": "Ghana",
+    "particlePollution": "30.3000",
+    "pop2022": "32395.4500"
+  },
+  {
+    "country": "Uganda",
+    "particlePollution": "29.1000",
+    "pop2022": "48432.8630"
+  },
+  {
+    "country": "Armenia",
+    "particlePollution": "25.5100",
+    "pop2022": "2971.9660"
+  },
+  {
+    "country": "Bulgaria",
+    "particlePollution": "25.4900",
+    "pop2022": "6844.5970"
+  },
+  {
+    "country": "Sri Lanka",
+    "particlePollution": "25.2000",
+    "pop2022": "21575.8420"
+  },
+  {
+    "country": "South Korea",
+    "particlePollution": "24.7800",
+    "pop2022": "51329.8990"
+  },
+  {
+    "country": "Iran",
+    "particlePollution": "24.2700",
+    "pop2022": "86022.8370"
+  },
+  {
+    "country": "Thailand",
+    "particlePollution": "24.2500",
+    "pop2022": "70078.2030"
+  },
+  {
+    "country": "Kazakhstan",
+    "particlePollution": "23.6000",
+    "pop2022": "19205.0430"
+  },
+  {
+    "country": "Macau",
+    "particlePollution": "23.5000",
+    "pop2022": "667.4900"
+  },
+  {
+    "country": "Peru",
+    "particlePollution": "23.3800",
+    "pop2022": "33684.2080"
+  },
+  {
+    "country": "Serbia",
+    "particlePollution": "23.3000",
+    "pop2022": "8653.0160"
+  },
+  {
+    "country": "Laos",
+    "particlePollution": "23.1000",
+    "pop2022": "7481.0230"
+  },
+  {
+    "country": "Chile",
+    "particlePollution": "22.6300",
+    "pop2022": "19250.1950"
+  },
+  {
+    "country": "Greece",
+    "particlePollution": "22.5000",
+    "pop2022": "10316.6370"
+  },
+  {
+    "country": "Saudi Arabia",
+    "particlePollution": "22.5000",
+    "pop2022": "35844.9090"
+  },
+  {
+    "country": "South Africa",
+    "particlePollution": "21.5600",
+    "pop2022": "60756.1350"
+  },
+  {
+    "country": "Nigeria",
+    "particlePollution": "21.4000",
+    "pop2022": "216746.9340"
+  },
+  {
+    "country": "Algeria",
+    "particlePollution": "21.2000",
+    "pop2022": "45350.1480"
+  },
+  {
+    "country": "Cambodia",
+    "particlePollution": "21.1000",
+    "pop2022": "17168.6390"
+  },
+  {
+    "country": "Israel",
+    "particlePollution": "20.8300",
+    "pop2022": "8922.8920"
+  },
+  {
+    "country": "Turkey",
+    "particlePollution": "20.6200",
+    "pop2022": "85561.9760"
+  },
+  {
+    "country": "Hong Kong",
+    "particlePollution": "20.3000",
+    "pop2022": "7604.2990"
+  },
+  {
+    "country": "Guatemala",
+    "particlePollution": "20.2000",
+    "pop2022": "18584.0390"
+  },
+  {
+    "country": "Georgia",
+    "particlePollution": "20.1000",
+    "pop2022": "3968.7380"
+  },
+  {
+    "country": "Ethiopia",
+    "particlePollution": "20.1000",
+    "pop2022": "120812.6980"
+  },
+  {
+    "country": "Mexico",
+    "particlePollution": "20.0200",
+    "pop2022": "131562.7720"
+  },
+  {
+    "country": "Cyprus",
+    "particlePollution": "19.7200",
+    "pop2022": "1223.3870"
+  },
+  {
+    "country": "Malaysia",
+    "particlePollution": "19.3600",
+    "pop2022": "33181.0720"
+  },
+  {
+    "country": "Croatia",
+    "particlePollution": "19.0900",
+    "pop2022": "4059.2860"
+  },
+  {
+    "country": "Singapore",
+    "particlePollution": 19,
+    "pop2022": "5943.5460"
+  },
+  {
+    "country": "Poland",
+    "particlePollution": "18.6700",
+    "pop2022": "37739.7850"
+  },
+  {
+    "country": "Romania",
+    "particlePollution": "18.3200",
+    "pop2022": "19031.3350"
+  },
+  {
+    "country": "Jordan",
+    "particlePollution": "18.3000",
+    "pop2022": "10300.8690"
+  },
+  {
+    "country": "Egypt",
+    "particlePollution": 18,
+    "pop2022": "106156.6920"
+  },
+  {
+    "country": "Philippines",
+    "particlePollution": "17.6300",
+    "pop2022": "112508.9940"
+  },
+  {
+    "country": "Taiwan",
+    "particlePollution": "17.1600",
+    "pop2022": "23888.5950"
+  },
+  {
+    "country": "Italy",
+    "particlePollution": "17.0900",
+    "pop2022": "60262.7700"
+  },
+  {
+    "country": "Ukraine",
+    "particlePollution": "16.6000",
+    "pop2022": "43192.1220"
+  },
+  {
+    "country": "Slovakia",
+    "particlePollution": "16.1000",
+    "pop2022": "5460.1930"
+  },
+  {
+    "country": "Angola",
+    "particlePollution": "15.9000",
+    "pop2022": "35027.3430"
+  },
+  {
+    "country": "Brazil",
+    "particlePollution": "15.7700",
+    "pop2022": "215353.5930"
+  },
+  {
+    "country": "Colombia",
+    "particlePollution": "14.6100",
+    "pop2022": "51512.7620"
+  },
+  {
+    "country": "Argentina",
+    "particlePollution": "14.6000",
+    "pop2022": "46010.2340"
+  },
+  {
+    "country": "Hungary",
+    "particlePollution": "14.5700",
+    "pop2022": "9606.2590"
+  },
+  {
+    "country": "Lithuania",
+    "particlePollution": "14.4900",
+    "pop2022": "2661.7080"
+  },
+  {
+    "country": "Czech Republic",
+    "particlePollution": "14.4500",
+    "pop2022": "10736.7840"
+  },
+  {
+    "country": "Latvia",
+    "particlePollution": "13.3000",
+    "pop2022": "1848.8370"
+  },
+  {
+    "country": "Belgium",
+    "particlePollution": "12.5200",
+    "pop2022": "11668.2780"
+  },
+  {
+    "country": "France",
+    "particlePollution": "12.3400",
+    "pop2022": "65584.5180"
+  },
+  {
+    "country": "Austria",
+    "particlePollution": "12.1700",
+    "pop2022": "9066.7100"
+  },
+  {
+    "country": "Japan",
+    "particlePollution": "11.3600",
+    "pop2022": "125584.8380"
+  },
+  {
+    "country": "Germany",
+    "particlePollution": "11.0100",
+    "pop2022": "83883.5960"
+  },
+  {
+    "country": "Netherlands",
+    "particlePollution": "10.9100",
+    "pop2022": "17211.4470"
+  },
+  {
+    "country": "Switzerland",
+    "particlePollution": "10.8900",
+    "pop2022": "8773.6370"
+  },
+  {
+    "country": "Ireland",
+    "particlePollution": "10.6000",
+    "pop2022": "5020.1990"
+  },
+  {
+    "country": "United Kingdom",
+    "particlePollution": "10.5300",
+    "pop2022": "68497.9070"
+  },
+  {
+    "country": "Costa Rica",
+    "particlePollution": "10.4000",
+    "pop2022": "5182.3540"
+  },
+  {
+    "country": "Puerto Rico",
+    "particlePollution": "10.2100",
+    "pop2022": "2829.8120"
+  },
+  {
+    "country": "Russia",
+    "particlePollution": "9.8500",
+    "pop2022": "145805.9470"
+  },
+  {
+    "country": "Spain",
+    "particlePollution": "9.7400",
+    "pop2022": "46719.1420"
+  },
+  {
+    "country": "Luxembourg",
+    "particlePollution": "9.6000",
+    "pop2022": "642.3710"
+  },
+  {
+    "country": "Denmark",
+    "particlePollution": "9.6000",
+    "pop2022": "5834.9500"
+  },
+  {
+    "country": "Malta",
+    "particlePollution": "9.4000",
+    "pop2022": "444.0330"
+  },
+  {
+    "country": "Portugal",
+    "particlePollution": "9.2600",
+    "pop2022": "10140.5700"
+  },
+  {
+    "country": "United States",
+    "particlePollution": "9.0400",
+    "pop2022": "334805.2690"
+  },
+  {
+    "country": "Ecuador",
+    "particlePollution": "8.6000",
+    "pop2022": "18113.3610"
+  },
+  {
+    "country": "Australia",
+    "particlePollution": 8,
+    "pop2022": "26068.7920"
+  },
+  {
+    "country": "Canada",
+    "particlePollution": "7.7200",
+    "pop2022": "38388.4190"
+  },
+  {
+    "country": "New Zealand",
+    "particlePollution": "7.5200",
+    "pop2022": "4898.2030"
+  },
+  {
+    "country": "Norway",
+    "particlePollution": "6.8800",
+    "pop2022": "5511.3700"
+  },
+  {
+    "country": "Sweden",
+    "particlePollution": "6.6300",
+    "pop2022": "10218.9710"
+  },
+  {
+    "country": "Estonia",
+    "particlePollution": "6.1500",
+    "pop2022": "1321.9100"
+  },
+  {
+    "country": "Finland",
+    "particlePollution": "5.6300",
+    "pop2022": "5554.9600"
+  },
+  {
+    "country": "Iceland",
+    "particlePollution": "5.5500",
+    "pop2022": "345.3930"
+  },
+  {
+    "country": "Bahamas",
+    "particlePollution": "3.3000",
+    "pop2022": "400.5160"
+  }
+]
