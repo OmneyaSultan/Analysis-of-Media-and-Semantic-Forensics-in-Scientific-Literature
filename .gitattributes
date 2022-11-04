@@ -1,4 +1,6 @@
  *.tsv linguist-language=Python
+ 
+ *.py linguist-language=Python
 
 TEAM_SEIZE_THE_DATA_BIGDATA.pdf/* linguist-documentation
 
