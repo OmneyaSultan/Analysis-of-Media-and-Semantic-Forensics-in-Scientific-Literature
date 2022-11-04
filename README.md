@@ -1,4 +1,4 @@
-FILE : readme.txt
+FILE : readme
 GROUP: Seize the Data
 ---------------------
 
